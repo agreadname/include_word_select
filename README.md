@@ -53,7 +53,4 @@
     }
   }
  `
-![]
-(
-https://github.com/agreadname/include_word_select/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20181010122532.png
-)
+ https://github.com/agreadname/include_word_select/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20181010122532.png
