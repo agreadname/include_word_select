@@ -26,3 +26,32 @@
   
  ### 实例
   ` <myselect :options=data firstdt='全部车系' v-model="selectvalue" @change="handle"></myselect>`
+
+#### options
+`
+  {
+    'index':['A','B'],//导航栏的字符串，需要和下面的data对应
+    'data':{
+      'A':{
+        value:'',//一级
+        label:'',
+        children:[
+          {
+            value:'',//二级
+            label:''
+          },
+            {
+            value:'',
+            label:'',
+            children:[]//三级
+          },
+            {
+            value:'',
+            label:''
+          },
+        ]
+      }
+    }
+  }
+  
+`
