@@ -28,8 +28,7 @@
   ` <myselect :options=data firstdt='全部车系' v-model="selectvalue" @change="handle"></myselect>`
 
 #### options
-`
-  {
+`{
     'index':['A','B'],//导航栏的字符串，需要和下面的data对应
     'data':{
       'A':{
@@ -53,5 +52,4 @@
       }
     }
   }
-  
-`
+ `
