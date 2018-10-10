@@ -21,8 +21,8 @@
 ### 4.事件
  
  事件名  | 默认值  | 回调 | 作用
-      ---- | ----- | ------  | ------  
-  change|-|function(value){}|value值为选中后返回的值，该函数用于选择完毕之后
+ ---- | ----- | ------  | ------
+ change| - | function(value){} |value值为选中后返回的值，该函数用于选择完毕之后
   
  ### 实例
   ` <myselect :options=data firstdt='全部车系' v-model="selectvalue" @change="handle"></myselect>`
