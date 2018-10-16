@@ -1,6 +1,6 @@
 ## inclue_word_select
 使用手册
-
+  ####注意是在element的基础上写的，里面有应用到element的样式
   使用手册：
   父组件：
   ###  1. 导入组件，url为组件地址
